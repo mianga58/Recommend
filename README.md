@@ -36,5 +36,9 @@ File Descriptions:
 
 - data.csv - Dataset for the project.
 
-- preprocessing - Contains code to read data.csv and extract relevant information and machine learning model training.                   
+- preprocessing - Contains code to read data.csv and extract relevant information and machine learning model training.   
+
+- procfile - Contains configuration for cloud deployment on heroku.
+
+- requirements - Contains packages to install on heroku.  
 
